@@ -1,1 +1,1 @@
-web: phantomjs server.js
+web: phantomjs iut_authentication_test.js
